@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sumit Rasal
 
 You can use the [editor on GitHub](https://github.com/Sumit-Rasal/SumitRasal.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
